@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 import { NotificationButton } from "../NotificationButton";
 
@@ -12,6 +12,8 @@ export function SalesCard() {
 
   const [minDate, setMinDate] = useState(min);
   const [maxDate, setMaxDate] = useState(new Date());
+
+  useEffect(() => {}, []);
 
   return (
     <div className="dsmeta-card">
