@@ -9,5 +9,3 @@
 ## Demonstração:
 
 ![home](https://user-images.githubusercontent.com/62243365/203324205-a5bb9fea-b21b-4c76-8d86-30b6c5a5dc93.png)
-
-### Deploy: https://dsmeta-leonardo-pr.netlify.app/
